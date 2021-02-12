@@ -35,7 +35,7 @@ var obj2 = {
 }
 obj2.print();
 
-// ________ES6 mehtod_________ //
+// ________ES6 mehtod__________ //
 const obj = {
     email: 'shihan3star',
     print() {
@@ -49,3 +49,5 @@ const obj = {
     }
 }
 obj.print();
+// Few updated
+
