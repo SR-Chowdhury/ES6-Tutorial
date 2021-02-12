@@ -38,7 +38,7 @@ obj2.print();
 // ________ES6 mehtod_________ //
 const obj = {
     email: 'shihan3star',
-    print: function() {
+    print() {
         console.log("const 1st this: " + this); // Object
         console.log("const 1st this.name: " + this.email); // shihan3star
 
