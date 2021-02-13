@@ -1,5 +1,5 @@
 const path = require('path');
-const config = {
+const config = { 
     // entry: './src/index.js',
     // entry: './3.letVs_ConstVs_var_ES6.js',
     // entry: './4.Template_&_Multilne_string.js',
@@ -7,7 +7,8 @@ const config = {
     // entry: './6.ArrowFun_ES6.js',
     // entry: './7.Lexical_this_ES6.js',
     // entry: './8.Enhance_obj_ES6.js',
-    entry: './9.DestructuringArray_ES6.js',
+    // entry: './9.DestructuringArray_ES6.js',
+    entry: './10.Default_para_rest_spread.js',
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: 'bundle.js'
