@@ -8,7 +8,8 @@ const config = {
     // entry: './7.Lexical_this_ES6.js',
     // entry: './8.Enhance_obj_ES6.js',
     // entry: './9.DestructuringArray_ES6.js',
-    entry: './10.Default_para_rest_spread.js',
+    // entry: './10.Default_para_rest_spread.js',
+    entry: './11.ModuleSystem_import_ES6.js.js',
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: 'bundle.js'
