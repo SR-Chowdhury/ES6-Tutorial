@@ -1,4 +1,4 @@
-const path = require('path');
+const path = require('path'); 
 const config = { 
     // entry: './src/index.js',
     // entry: './3.letVs_ConstVs_var_ES6.js',
@@ -10,7 +10,8 @@ const config = {
     // entry: './9.DestructuringArray_ES6.js',
     // entry: './10.Default_para_rest_spread.js',
     // entry: './11.ModuleSystem_import_ES6.js',
-    entry: './12.Class_module_import_ES6.js',
+    // entry: './12.Class_module_import_ES6.js',
+    entry: './13.Class_inheritance_import_ES6.js',
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: 'bundle.js'
