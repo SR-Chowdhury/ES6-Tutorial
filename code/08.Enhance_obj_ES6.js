@@ -27,7 +27,8 @@ const userObj2 = {
     nam2,
     age2,
     print() {
-        console.log(this.nam2 + ', ' + this.age2);
+        // console.log(this.nam2 + ', ' + this.age2);
+        console.log(nam2 + ', ' + age2);
     }
 }
 userObj2.print();
